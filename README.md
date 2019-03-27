@@ -51,7 +51,7 @@ dest_dir = meta-up-board
 
 branch = sumo_mr4
 
-last_revision = fd55044103c763f7f03fe5fd27c79af3c8ef258e
+last_revision = eb3e7ab48c4ad27de12bab1abdb6080ebcbe53f2
 ```
 
 Also, we have to edit the bblayer file to add our layer in the setup:
